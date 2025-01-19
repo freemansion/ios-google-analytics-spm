@@ -16,5 +16,9 @@
 	<string>3.21.0</string>
 	<key>DTSDKName</key>
 	<string>iphonesimulator11.2</string>
+	<key>MinimumOSVersion</key>
+	<string>13.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
 </dict>
 </plist>
